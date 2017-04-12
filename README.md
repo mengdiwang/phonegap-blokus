@@ -1,2 +1,2 @@
-# phonegap-tictactoe
-Phonegap wrapper for tictactoe
+# phonegap-blokus
+Phonegap wrapper for blokus
